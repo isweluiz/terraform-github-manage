@@ -23,3 +23,4 @@ module "gh-repository-terraform01" {
   repository_visibility             = var.visibility
   repository_delete_branch_on_merge = var.delete_branch_on_merge
 }
+

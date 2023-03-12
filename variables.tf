@@ -1,5 +1,5 @@
 variable "GITHUB_TOKEN" {
-  type    = string
+  type        = string
   description = "Github personal access token"
 }
 
